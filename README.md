@@ -1,10 +1,10 @@
-#USER STORY
-##AS A payroll manager
+USER STORY
+AS A payroll manager
 I WANT AN employee payroll tracker
 SO THAT I can see my employees' payroll data and properly budget for the company
 
-#ACCEPTANCE CRITERIA
-##GIVEN an employee payroll tracker
+ACCEPTANCE CRITERIA
+#GIVEN an employee payroll tracker
 WHEN I click the "Add employee" button
 THEN I am presented with a series of prompts asking for first name, last name, and salary
 WHEN I finish adding an employee
